@@ -56,11 +56,7 @@ for i in range(len(touplelist)):
      for key in dict1:
           if (dict1[key] == num):
                final_list.append(key)
-print(final_list)
-print(Testing)
-print(len(Testing))
-print(len(final_list))
-print(len(touplelist))
+
 testing_list = [x[4] for x in Testing]
 print(testing_list)
 number = 0
